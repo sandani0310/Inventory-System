@@ -7,8 +7,8 @@
       <router-link to="/invoice" class="btn btn-primary my-1"
         ><span>Invoice</span>
       </router-link>
-      <router-link to="/project" class="btn btn-primary my-1"
-        ><span>Project</span>
+      <router-link to="/product" class="btn btn-primary my-1"
+        ><span>Product</span>
       </router-link>
       <router-link to="/report" class="btn btn-primary my-1"
         ><span>Report</span>
